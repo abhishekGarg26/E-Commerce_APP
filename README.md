@@ -20,7 +20,7 @@ This repository houses a feature-rich e-commerce app built using React-Native, i
 6. Order Tracking: The app provides order tracking capabilities, allowing users to monitor the status of their purchases. Users can receive notifications and updates on their orders, ensuring a transparent and satisfying post-purchase experience.
 7. Responsive Design: Designed with a mobile-first approach, this e-commerce app offers a responsive layout that adapts to different screen sizes. It ensures an optimal user experience on both smartphones and tablets.
 
-# ACCESS
+## ACCESS
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
