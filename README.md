@@ -3,6 +3,11 @@ This repository houses a feature-rich e-commerce app built using React-Native, i
 
 ## APP PREVIEW
 
+<img width="333" alt="Screenshot 2023-06-01 at 9 56 40 AM" src="https://github.com/abhishekGarg26/E-Commerce_APP/assets/132883235/1f1b2724-7a65-4a8a-9e8a-5fd1846169f4">
+<img width="332" alt="Screenshot 2023-06-01 at 9 56 59 AM" src="https://github.com/abhishekGarg26/E-Commerce_APP/assets/132883235/df04876b-ad0a-4bf3-a10d-87e8fe2c553e">
+<img width="333" alt="Screenshot 2023-06-01 at 9 57 36 AM" src="https://github.com/abhishekGarg26/E-Commerce_APP/assets/132883235/cf1e8146-1e7d-4b2b-910e-f540a535621e">
+<img width="321" alt="Screenshot 2023-06-01 at 9 57 57 AM" src="https://github.com/abhishekGarg26/E-Commerce_APP/assets/132883235/91755ff2-c5f7-414b-a3c2-bf5c8e2203b0">
+<img width="334" alt="Screenshot 2023-06-01 at 9 58 13 AM" src="https://github.com/abhishekGarg26/E-Commerce_APP/assets/132883235/b2911e19-e5ba-4ec7-ac3d-3f90e36a25ea">
 
 
 ## Features:
