@@ -15,10 +15,9 @@ This repository houses a feature-rich e-commerce app built using React-Native, i
 1. Drawer Navigation: The app implements a convenient drawer navigation system, allowing users to easily access various screens and functionalities. The intuitive navigation menu provides quick access to categories, shopping cart, user profile, and more.
 2. useContext Hook: Leveraging the power of the useContext hook in React-Native, this app efficiently manages global state across multiple components. It simplifies data sharing and allows for a consistent and synchronized user experience throughout the app.
 3. Product Catalog: The app showcases a comprehensive product catalog, enabling users to browse and explore a wide range of products. Each product listing includes essential details such as title, price, description, and images to facilitate informed purchasing decisions.
-4. Search and Filtering: Users can search for specific products using keywords and apply filters to narrow down their search results. Filter options may include price range, category, brand, or other relevant attributes, providing a personalized shopping experience.
-5. Shopping Cart and Checkout: The app features a fully functional shopping cart where users can add products, adjust quantities, and proceed to the checkout process. Users can review their items, apply discount codes, select shipping methods, and securely complete their purchases.
-6. Order Tracking: The app provides order tracking capabilities, allowing users to monitor the status of their purchases. Users can receive notifications and updates on their orders, ensuring a transparent and satisfying post-purchase experience.
-7. Responsive Design: Designed with a mobile-first approach, this e-commerce app offers a responsive layout that adapts to different screen sizes. It ensures an optimal user experience on both smartphones and tablets.
+4. Shopping Cart and Checkout: The app features a fully functional shopping cart where users can add products, adjust quantities, and proceed to the checkout process. Users can review their items, apply discount codes, select shipping methods, and securely complete their purchases.
+5. Order Tracking: The app provides order tracking capabilities, allowing users to monitor the status of their purchases. Users can receive notifications and updates on their orders, ensuring a transparent and satisfying post-purchase experience.
+6. Responsive Design: Designed with a mobile-first approach, this e-commerce app offers a responsive layout that adapts to different screen sizes. It ensures an optimal user experience on both smartphones and tablets.
 
 ## ACCESS
 
